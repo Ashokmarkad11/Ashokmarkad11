@@ -128,7 +128,9 @@ Mindset  : Grow every single day 📈
 
 <br/><br/>
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *> ### 🦅 The Philosophy of Khudi
+> *"Tu shaheen hai, parwaz hai kaam tera,* > *Tere samne aasman aur bhi hain."* > — **Allama Iqbal** >
+> _(You are a falcon; your essence is flight. There are yet more horizons for you to conquer.)_
 
 </div>
 
