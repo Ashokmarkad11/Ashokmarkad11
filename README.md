@@ -1,200 +1,231 @@
-<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=220&section=header&text=Ashok%20Markad&fontSize=60&fontColor=4ECDC4&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20Problem%20Solver&descSize=15&descAlignY=60&descColor=a8b2d8" width="100%" />
-</div>
 
-<!-- TYPING SVG -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=1000&color=4ECDC4&center=true&vCenter=true&width=500&height=36&lines=const+developer+%3D+%22Ashok+Markad%22;Building+scalable+%26+clean+software+%F0%9F%9A%80;One+commit+at+a+time+%E2%9C%A8;Open+source+%7C+Lifelong+learner+%F0%9F%93%9A" alt="Typing SVG" />
+<!-- ULTRA PREMIUM HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a0a,100:111111&height=4&section=header" width="100%" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,30:0d0d0d,70:111111,100:0a0a0a&height=280&text=ASHOK%20MARKAD&fontColor=C9A227&fontSize=72&fontAlignY=42&animation=fadeIn&desc=SOFTWARE%20ARCHITECT%20%E2%80%A2%20FULL%20STACK%20ENGINEER%20%E2%80%A2%20SYSTEMS%20THINKER&descSize=13&descAlignY=64&descColor=888888" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:C9A227,100:000000&height=2&section=header" width="100%" />
+
 </div>
 
 <br/>
 
-<!-- BADGES -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/ashok-markad-520387374">
-    <img src="https://img.shields.io/badge/LinkedIn-Ashok%20Markad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Ashokmarkad11">
-    <img src="https://img.shields.io/badge/GitHub-Ashokmarkad11-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:ashok@email.com">
-    <img src="https://img.shields.io/badge/Gmail-ashok%40email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Ashokmarkad11&style=for-the-badge&color=4ECDC4&label=PROFILE+VIEWS" />
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Ashok%20Markad-C9A227?style=for-the-badge&logo=linkedin&logoColor=C9A227&labelColor=0a0a0a)](https://www.linkedin.com/in/ashok-markad-520387374)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GITHUB-Ashokmarkad11-C9A227?style=for-the-badge&logo=github&logoColor=C9A227&labelColor=0a0a0a)](https://github.com/Ashokmarkad11)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/CONTACT-ashok%40email.com-C9A227?style=for-the-badge&logo=gmail&logoColor=C9A227&labelColor=0a0a0a)](mailto:ashok@email.com)
+&nbsp;&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Ashokmarkad11&style=for-the-badge&color=C9A227&labelColor=0a0a0a&label=PROFILE+VIEWS)
+
 </div>
 
 <br/>
 
 ---
 
-<!-- ABOUT ME -->
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF" />
+<br/>
 
-## `$ whoami`
+## <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" width="28"/></picture>&nbsp; EXECUTIVE PROFILE
 
-```typescript
-const ashok: Developer = {
-  name      : "Ashok Markad",
-  location  : "India 🇮🇳",
-  role      : "Software Developer",
-  focus     : ["Full Stack", "System Design", "Clean Code"],
-  currently : "Building projects that solve real problems 🔭",
-  learning  : ["New frameworks", "Architecture patterns"],
-  openTo    : ["Collaborations", "Open Source", "Opportunities"],
-  philosophy: "Clean code > Clever code 💡",
-  funFact   : "I treat bugs as unfinished features 🐛 → ✅"
-};
+<table>
+<tr>
+<td width="58%" valign="top">
+
+```
+╔══════════════════════════════════════════════════╗
+║           PROFESSIONAL INTELLIGENCE              ║
+╠══════════════════════════════════════════════════╣
+║  ENTITY      │  Ashok Markad                     ║
+║  BASE        │  India 🇮🇳                         ║
+║  DIVISION    │  Software Engineering              ║
+║  VERTICAL    │  Full Stack · System Design        ║
+║  STATUS      │  ● ACTIVE — Building at scale      ║
+║  MANDATE     │  Code that creates real impact     ║
+║  DOCTRINE    │  Clean architecture. Zero bloat.   ║
+║  DIRECTIVE   │  Turning complex → elegant         ║
+╚══════════════════════════════════════════════════╝
 ```
 
-- 🔭 &nbsp; Currently building **projects that solve real problems**
-- 🌱 &nbsp; Exploring **new frameworks and system design**
-- 💡 &nbsp; Believer in **clean code over clever code**
-- 🤝 &nbsp; Open to **collaborating on open-source projects**
-- ⚡ &nbsp; Fun fact: **I treat bugs as features waiting to be fixed**
+</td>
+<td width="42%" valign="top" align="center">
 
-<br clear="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=13&duration=2600&pause=1200&color=C9A227&center=true&vCenter=true&width=340&height=130&lines=%E2%96%88+SYSTEMS+ONLINE+%E2%96%88;Initializing+core+stack...;Full+Stack+%E2%9C%94+Clean+Code+%E2%9C%94;Shipping+solutions+that+matter.;%E2%80%9CParwaz+hai+kaam+tera.%E2%80%9D" alt="Typing SVG" />
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-<!-- TECH STACK -->
-## 🛠️ Technology Arsenal
+<br/>
+
+## ⚙️ CORE TECHNOLOGY INFRASTRUCTURE
 
 <div align="center">
 
 <table>
-<tr><td align="center" width="100%">
+<tr>
+<td align="center" width="33%">
 
-**⚡ Languages**
+### `[ LANGUAGES ]`
 
-</td></tr>
-<tr><td align="center">
+![C](https://img.shields.io/badge/C-C9A227?style=flat-square&logo=c&logoColor=0a0a0a)
+![C++](https://img.shields.io/badge/C++-C9A227?style=flat-square&logo=cplusplus&logoColor=0a0a0a)
+![Java](https://img.shields.io/badge/Java-C9A227?style=flat-square&logo=openjdk&logoColor=0a0a0a)
+![Python](https://img.shields.io/badge/Python-C9A227?style=flat-square&logo=python&logoColor=0a0a0a)
+![JavaScript](https://img.shields.io/badge/JavaScript-C9A227?style=flat-square&logo=javascript&logoColor=0a0a0a)
+![HTML5](https://img.shields.io/badge/HTML5-C9A227?style=flat-square&logo=html5&logoColor=0a0a0a)
+![CSS3](https://img.shields.io/badge/CSS3-C9A227?style=flat-square&logo=css3&logoColor=0a0a0a)
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</td>
+<td align="center" width="33%">
 
-</td></tr>
-<tr><td align="center">
+### `[ FRAMEWORKS ]`
 
-**🚀 Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-C9A227?style=flat-square&logo=react&logoColor=0a0a0a)
+![Node.js](https://img.shields.io/badge/Node.js-C9A227?style=flat-square&logo=nodedotjs&logoColor=0a0a0a)
+![Express.js](https://img.shields.io/badge/Express.js-C9A227?style=flat-square&logo=express&logoColor=0a0a0a)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-C9A227?style=flat-square&logo=bootstrap&logoColor=0a0a0a)
 
-</td></tr>
-<tr><td align="center">
+</td>
+<td align="center" width="33%">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### `[ DATA & DEVOPS ]`
 
-</td></tr>
-<tr><td align="center">
+![MongoDB](https://img.shields.io/badge/MongoDB-C9A227?style=flat-square&logo=mongodb&logoColor=0a0a0a)
+![MySQL](https://img.shields.io/badge/MySQL-C9A227?style=flat-square&logo=mysql&logoColor=0a0a0a)
+![Git](https://img.shields.io/badge/Git-C9A227?style=flat-square&logo=git&logoColor=0a0a0a)
+![GitHub](https://img.shields.io/badge/GitHub-C9A227?style=flat-square&logo=github&logoColor=0a0a0a)
+![VS Code](https://img.shields.io/badge/VS_Code-C9A227?style=flat-square&logo=visualstudiocode&logoColor=0a0a0a)
+![Postman](https://img.shields.io/badge/Postman-C9A227?style=flat-square&logo=postman&logoColor=0a0a0a)
 
-**🗄️ Databases & DevTools**
-
-</td></tr>
-<tr><td align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</td></tr>
+</td>
+</tr>
 </table>
 
 </div>
 
+<br/>
+
 ---
-
-<!-- GITHUB STATS -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashokmarkad11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=4ECDC4&icon_color=4ECDC4&text_color=a8b2d8&bg_color=0d1117" alt="Ashok's GitHub Stats" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashokmarkad11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=4ECDC4&text_color=a8b2d8&bg_color=0d1117" alt="Top Languages" />
-</div>
 
 <br/>
 
-<div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=Ashokmarkad11&theme=tokyonight&hide_border=true&background=0d1117&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4&sideLabels=a8b2d8&dates=a8b2d8&sideNums=4ECDC4&currStreakNum=ffffff" alt="GitHub Streak" />
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-## 📈 Contribution Activity
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashokmarkad11&theme=tokyo-night&bg_color=0d1117&color=4ECDC4&line=4ECDC4&point=ffffff&area=true&area_color=4ECDC4&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Ashokmarkad11&theme=tokyonight&no-frame=true&margin-w=10&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
-<!-- QUOTE -->
-## 💬 Words I Live By
-
-<div align="center">
-<br/>
-
-> *"Tu shaheen hai, parwaz hai kaam tera,*
-> *Tere samne aasman aur bhi hain."*
->
-> **You are a falcon — your essence is flight.**
-> **There are yet more horizons for you to conquer.**
->
-> — *Allama Iqbal*
-
-<br/>
-</div>
-
----
-
-<!-- CONNECT -->
-## 🤝 Let's Build Something Great Together
+## 📊 PERFORMANCE INTELLIGENCE
 
 <div align="center">
 
-*Always open to interesting conversations, collaborations, and new opportunities.*
-
-<br/>
-
-<a href="https://www.linkedin.com/in/ashok-markad-520387374">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ashokmarkad11&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=C9A227&icon_color=C9A227&text_color=888888&bg_color=0a0a0a&ring_color=C9A227" />
 &nbsp;
-<a href="https://github.com/Ashokmarkad11">
-  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:ashok@email.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashokmarkad11&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=C9A227&text_color=888888&bg_color=0a0a0a" />
 
 </div>
 
 <br/>
 
-<!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,40:16213e,70:1a1a2e,100:0d1117&height=140&section=footer&text=Thanks%20for%20Visiting!%20%E2%AD%90&fontSize=20&fontColor=4ECDC4&animation=fadeIn&fontAlignY=70" width="100%" />
+<img width="62%" src="https://streak-stats.demolab.com/?user=Ashokmarkad11&theme=dark&hide_border=true&background=0a0a0a&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=888888&dates=555555&sideNums=C9A227&currStreakNum=ffffff&stroke=C9A227" />
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 📈 COMMIT INTELLIGENCE — ACTIVITY LEDGER
+
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashokmarkad11&theme=github-compact&bg_color=0a0a0a&color=C9A227&line=C9A227&point=ffffff&area=true&area_color=C9A227&hide_border=true" />
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 🏆 ACHIEVEMENT REGISTRY
+
+<div align="center">
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Ashokmarkad11&theme=darkhub&no-frame=true&margin-w=12&column=6&title_color=C9A227" />
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 📜 FOUNDING PHILOSOPHY
+
+<div align="center">
+
+<br/>
+
+```
+  ╔════════════════════════════════════════════════════════════╗
+  ║                                                            ║
+  ║     "Tu shaheen hai, parwaz hai kaam tera,                 ║
+  ║      Tere samne aasman aur bhi hain."                      ║
+  ║                                                            ║
+  ║     You are a falcon — your essence is flight.             ║
+  ║     There are yet more skies for you to conquer.           ║
+  ║                                                            ║
+  ║                                  — Allama Iqbal            ║
+  ╚════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+</div>
+
+---
+
+<br/>
+
+## 🤝 STRATEGIC ENGAGEMENT
+
+<div align="center">
+
+*Available for high-impact collaborations, open-source ventures, and engineering opportunities.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-C9A227?style=for-the-badge&logo=linkedin&logoColor=0a0a0a)](https://www.linkedin.com/in/ashok-markad-520387374)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-C9A227?style=for-the-badge&logo=github&logoColor=0a0a0a)](https://github.com/Ashokmarkad11)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/SEND%20PROPOSAL-C9A227?style=for-the-badge&logo=gmail&logoColor=0a0a0a)](mailto:ashok@email.com)
+
+<br/>
+
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:C9A227,100:000000&height=2" width="100%" />
+
+<br/>
+
+![](https://img.shields.io/badge/ASHOK%20MARKAD-SOFTWARE%20ENGINEER-C9A227?style=for-the-badge&labelColor=0a0a0a)
+
+`© 2025 · Ashok Markad · Built with precision. Deployed with purpose.`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:111111,100:0a0a0a&height=40&text=&fontColor=C9A227&fontSize=14&fontAlignY=65&animation=fadeIn" width="100%" />
+
 </div>
