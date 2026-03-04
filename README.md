@@ -1,11 +1,11 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:16213e,100:0f3460&height=250&section=header&text=Ashok%20Markad&fontSize=65&fontColor=4ECDC4&animation=twinkling&fontAlignY=40&desc=Software%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20Problem%20Solver&descSize=16&descAlignY=62&descColor=a8b2d8" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=220&section=header&text=Ashok%20Markad&fontSize=60&fontColor=4ECDC4&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20Problem%20Solver&descSize=15&descAlignY=60&descColor=a8b2d8" width="100%" />
 </div>
 
 <!-- TYPING SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1000&color=4ECDC4&center=true&vCenter=true&width=580&height=38&lines=const+developer+%3D+%22Ashok+Markad%22+%F0%9F%91%8B;Building+scalable+%26+clean+software+%F0%9F%9A%80;One+commit+at+a+time+%E2%9C%A8;Open+source+enthusiast+%7C+Lifelong+learner+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=1000&color=4ECDC4&center=true&vCenter=true&width=500&height=36&lines=const+developer+%3D+%22Ashok+Markad%22;Building+scalable+%26+clean+software+%F0%9F%9A%80;One+commit+at+a+time+%E2%9C%A8;Open+source+%7C+Lifelong+learner+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -196,5 +196,5 @@ const ashok: Developer = {
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,40:16213e,70:1a1a2e,100:0d1117&height=140&section=footer&text=Thanks%20for%20Visiting!%20%E2%AD%90&fontSize=20&fontColor=4ECDC4&animation=twinkling&fontAlignY=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,40:16213e,70:1a1a2e,100:0d1117&height=140&section=footer&text=Thanks%20for%20Visiting!%20%E2%AD%90&fontSize=20&fontColor=4ECDC4&animation=fadeIn&fontAlignY=70" width="100%" />
 </div>
