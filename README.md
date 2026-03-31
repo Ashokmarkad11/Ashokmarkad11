@@ -11,7 +11,7 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashok-markad-520387374?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashokmarkad11)
-[![Profile Views](https://komarev.com/ghpvc/?username=PrajwalKapase&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/Ashokmarkad11)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ashokmarkad11&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/Ashokmarkad11)
 
 </div>
 
