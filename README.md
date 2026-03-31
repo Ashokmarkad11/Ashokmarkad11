@@ -9,9 +9,9 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-kapase-822927335)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrajwalKapase)
-[![Profile Views](https://komarev.com/ghpvc/?username=PrajwalKapase&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/PrajwalKapase)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashok-markad-520387374?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashokmarkad11)
+[![Profile Views](https://komarev.com/ghpvc/?username=PrajwalKapase&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/Ashokmarkad11)
 
 </div>
 
@@ -23,7 +23,7 @@
 ### 🙋‍♂️ About Me
 
 ```yaml
-name: Prajwal Kapase
+name: Ashok Markad
 location: India 🇮🇳
 role: Developer & Tech Enthusiast
 focus: Building cool things that matter
@@ -81,13 +81,13 @@ available_for: Collaborations & Opportunities
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrajwalKapase&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalKapase&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashokmarkad11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalKapase&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=00D4FF&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashokmarkad11e&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=00D4FF&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak"/>
 
 </div>
 
@@ -109,7 +109,7 @@ available_for: Collaborations & Opportunities
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PrajwalKapase&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ashokmarkad11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 
 </div>
 
@@ -120,11 +120,11 @@ available_for: Collaborations & Opportunities
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/prajwal-kapase-822927335">
+<a href="https://www.linkedin.com/in/ashok-markad-520387374?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/PrajwalKapase">
+<a href="https://github.com/Ashokmarkad11">
   <img src="https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
