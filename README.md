@@ -59,7 +59,7 @@
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- 💼 LinkedIn:www.linkedin.com/in/ashok-markad-520387374
 - 📧 Email: YOUR_EMAIL
 
 ---
