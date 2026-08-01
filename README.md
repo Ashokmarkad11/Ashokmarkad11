@@ -1,144 +1,73 @@
-<div align="center">
+# 👋 Hi, I'm Ashok Markad
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=200&section=header&text=Ashok%20Markad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descAlign=50" width="100%"/>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Ashok+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
-
-<br/>
-
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashok-markad-520387374?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashokmarkad11)
-[![Profile Views](https://komarev.com/ghpvc/?username=Ashokmarkad11&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/Ashokmarkad11)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Java+Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!" />
+</p>
 
 ---
 
-<!-- About Me Section -->
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## 👨‍💻 About Me
 
-### 🙋‍♂️ About Me
-
-```yaml
-name: Ashok Markad
-location: India 🇮🇳
-role: Developer & Tech Enthusiast
-focus: Building cool things that matter
-learning: Always something new
-available_for: Collaborations & Opportunities
-```
-
-- 🔭 Currently working on exciting projects
-- 🌱 Constantly learning and growing as a developer
-- 👯 Open to collaborate on open-source projects
-- 💬 Ask me about anything tech-related
-- ⚡ Fun fact: I debug with coffee ☕
-
-<br clear="right"/>
+- 🎓 Computer Engineering Student
+- ☕ Currently learning **Java Full Stack Development**
+- 📚 Focused on Core Java, Spring Boot, MySQL, REST APIs & DSA
+- 💡 Passionate about solving coding problems and building projects
+- 🌱 Improving my communication skills every day
+- 🎯 Goal: Become a Software Engineer
 
 ---
 
-<!-- Skills Section -->
-## 🛠️ Tech Stack & Tools
+## 🚀 Tech Stack
 
-<div align="center">
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Databases & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
 
 ---
 
-<!-- GitHub Stats Section -->
-## 📊 GitHub Statistics
+## 📚 Currently Learning
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrajwalKapase&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashokmarkad11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashokmarkad11e&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=00D4FF&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak"/>
-
-</div>
+- ☕ Core Java
+- 🌱 Spring Boot
+- 🗄️ MySQL
+- 🔗 REST APIs
+- 📦 Maven
+- 🌿 Git & GitHub
+- 🧠 Data Structures & Algorithms
 
 ---
 
-<!-- Activity Graph -->
-## 📈 Contribution Graph
+## 📈 GitHub Stats
 
-<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashokmarkad11&bg_color=0D1117&color=6C63FF&line=00D4FF&point=ffffff&area=true&hide_border=true" width="100%"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
-</div>
-
----
-
-<!-- Trophies Section -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ashokmarkad11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
-
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
 ---
 
-<!-- Connect Section -->
-## 🤝 Let's Connect
+## 📫 Connect with Me
 
-<div align="center">
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- 📧 Email: YOUR_EMAIL
 
-<a href="https://www.linkedin.com/in/ashok-markad-520387374?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Ashokmarkad11">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:your.email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
 
-<br/><br/>
+## 💬 Quote
 
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+> **"Success is built one commit at a time." 🚀**
 
-<br/>
+---
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=120&section=footer" width="100%"/>
-
-</div>
+⭐ Thanks for visiting my profile! Don't forget to follow me and check out my repositories.
