@@ -60,7 +60,7 @@
 ## 📫 Connect with Me
 
 - 💼 LinkedIn:www.linkedin.com/in/ashok-markad-520387374
-- 📧 Email: YOUR_EMAIL
+- 📧 Email: ashokmarkad.dev@gmail.com
 
 ---
 
