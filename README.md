@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering Student
+- 🎓 Computer Engineering Student.
 - ☕ Currently learning **Java Full Stack Development**
 - 📚 Focused on Core Java, Spring Boot, MySQL, REST APIs & DSA
 - 💡 Passionate about solving coding problems and building projects
