@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ashok Markad
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Java+Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Java+Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!"  />
 </p>
 
 ---
